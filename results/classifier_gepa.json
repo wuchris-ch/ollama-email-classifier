@@ -1,0 +1,36 @@
+{
+  "classify.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "Classify an email into exactly one of: personal, work, finance, promo, transactional, spam.\n\npersonal: friends, family, social plans, casual.\nwork: internal team comms, code reviews, planning, 1:1s.\nfinance: bank statements, balance alerts, tax, investments.\npromo: marketing, sales, newsletters, abandoned-cart.\ntransactional: order confirmations, shipping, receipts, 2FA, password resets.\nspam: phishing, scams, advance-fee fraud, fake invoices.",
+      "fields": [
+        {
+          "prefix": "Subject:",
+          "description": "${subject}"
+        },
+        {
+          "prefix": "Body:",
+          "description": "${body}"
+        },
+        {
+          "prefix": "Reasoning:",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Label:",
+          "description": "${label}"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.10",
+      "dspy": "3.2.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}
