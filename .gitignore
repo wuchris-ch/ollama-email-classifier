@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+.idea/
+.vscode/
+uv.lock
+
+# DSPy / experiment artifacts
+.dspy_cache/
+mlruns/
+*.log
+
+# Keep data/*.jsonl committed; ignore raw scratch only
+data/raw/
+data/scratch/
