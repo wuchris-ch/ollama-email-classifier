@@ -1,0 +1,150 @@
+{"subject": "hey, free this Sunday?", "body": "Was thinking we grab coffee at the rooftop bar. Let me know what works for you.", "label": "personal"}
+{"subject": "appointment confirmed", "body": "Your appointment with Dr. Alex is confirmed for Saturday at 10am.", "label": "transactional"}
+{"subject": "RRSP contribution room", "body": "Your remaining RRSP contribution room for this year is $250.", "label": "finance"}
+{"subject": "order #258106 confirmed", "body": "Thanks for your order. Your running shoes will ship within 2 business days. Tracking to follow.", "label": "transactional"}
+{"subject": "shipped: order #332155", "body": "Your order has shipped via Stellaris. Estimated delivery Saturday.", "label": "transactional"}
+{"subject": "e-transfer received", "body": "You received an Interac e-Transfer of $50 from Rafael.", "label": "finance"}
+{"subject": "Jordan's birthday", "body": "Reminder: Rafael's birthday is on Wednesday. Are we still doing the dinner at your spot?", "label": "personal"}
+{"subject": "20% off this weekend", "body": "Our biggest sale of the season is here. 25% off everything in the wireless earbuds collection.", "label": "promo"}
+{"subject": "plans this weekend", "body": "Free Saturday afternoon? Was thinking the new exhibit at the gallery.", "label": "personal"}
+{"subject": "housewarming!", "body": "We're finally done unpacking. Come over Saturday around 7. Bring whatever you want to drink.", "label": "personal"}
+{"subject": "flight check-in open", "body": "Check-in is now open for your flight to Vancouver. Window closes 1 hour before departure.", "label": "transactional"}
+{"subject": "two-factor code", "body": "Your verification code is 660292. It expires in 10 minutes. Don't share this code.", "label": "transactional"}
+{"subject": "order #722888 confirmed", "body": "Thanks for your order. Your running shoes will ship within 2 business days. Tracking to follow.", "label": "transactional"}
+{"subject": "can you help me move?", "body": "Looking for an extra hand on Saturday. Bribing with pizza and good music.", "label": "personal"}
+{"subject": "fraud alert", "body": "We blocked a suspicious charge of $500 on your card. Confirm whether this was you.", "label": "finance"}
+{"subject": "appointment confirmed", "body": "Your appointment with Dr. Sam is confirmed for Monday at 10am.", "label": "transactional"}
+{"subject": "statement available", "body": "Your Stellaris credit card statement for this month is now available. Minimum payment due in 21 days.", "label": "finance"}
+{"subject": "crypto opportunity", "body": "I am reaching out because you were referred as a serious investor. Returns of 40% guaranteed.", "label": "spam"}
+{"subject": "verify your bank", "body": "Unusual activity detected on your account. Confirm your full card number and PIN to restore access.", "label": "spam"}
+{"subject": "30% off this weekend", "body": "Our biggest sale of the season is here. 15% off everything in the linen shirt collection.", "label": "promo"}
+{"subject": "crypto opportunity", "body": "I am reaching out because you were referred as a serious investor. Returns of 40% guaranteed.", "label": "spam"}
+{"subject": "investment summary", "body": "Quarterly summary for your portfolio. YTD return below; full breakdown in the attached PDF.", "label": "finance"}
+{"subject": "e-transfer received", "body": "You received an Interac e-Transfer of $250 from Nadia.", "label": "finance"}
+{"subject": "RFC: billing v2", "body": "Drafted an RFC for the platform migration approach. Looking for input before we commit.", "label": "work"}
+{"subject": "members-only preview", "body": "As a Pinecone Labs member, you get early access to next week's drop. Preview inside.", "label": "promo"}
+{"subject": "recipe", "body": "Here's the dumpling recipe I promised. The trick is the cold water in the dough.", "label": "personal"}
+{"subject": "hiring loop feedback", "body": "Sharing feedback for the Theo loop. Strong technical, want a second opinion on system design.", "label": "work"}
+{"subject": "1:1 reschedule", "body": "Hey Rafael, can we move our 1:1 to Friday at 2pm? Conflict on my end.", "label": "work"}
+{"subject": "delivered: order #153858", "body": "Your wireless earbuds was delivered today. If anything is wrong, reply within 30 days.", "label": "transactional"}
+{"subject": "checking in", "body": "Hey, haven't heard from you in a while. Things ok?", "label": "personal"}
+{"subject": "flight check-in open", "body": "Check-in is now open for your flight to Seattle. Window closes 1 hour before departure.", "label": "transactional"}
+{"subject": "incident postmortem", "body": "Posting the postmortem for last week's outage. Headlines: rollback worked, alerting did not.", "label": "work"}
+{"subject": "low balance alert", "body": "Your checking account balance is below $500. No action required, just a heads up.", "label": "finance"}
+{"subject": "CEO request", "body": "I need you to handle a confidential transaction for me. Reply only to this email. Do not call.", "label": "spam"}
+{"subject": "blocker on search relevance", "body": "We're stuck waiting on the schema migration. Pinging Sam to unblock.", "label": "work"}
+{"subject": "we miss you", "body": "It's been a while. Here's 10% off your next order to welcome you back.", "label": "promo"}
+{"subject": "verify your bank", "body": "Unusual activity detected on your account. Confirm your full card number and PIN to restore access.", "label": "spam"}
+{"subject": "survey: $10 reward", "body": "Take a quick survey and we'll send you a $10 credit. Five minutes, promise.", "label": "promo"}
+{"subject": "shipped: order #922986", "body": "Your order has shipped via Quanta. Estimated delivery Tuesday.", "label": "transactional"}
+{"subject": "hey, free this Wednesday?", "body": "Was thinking we grab coffee at the rooftop bar. Let me know what works for you.", "label": "personal"}
+{"subject": "housewarming!", "body": "We're finally done unpacking. Come over Saturday around 7. Bring whatever you want to drink.", "label": "personal"}
+{"subject": "mortgage renewal", "body": "Your mortgage is up for renewal in 90 days. Rates and options in the attached package.", "label": "finance"}
+{"subject": "payment received", "body": "We received your loan payment of $500. Next payment is due Tuesday of next month.", "label": "finance"}
+{"subject": "CEO request", "body": "I need you to handle a confidential transaction for me. Reply only to this email. Do not call.", "label": "spam"}
+{"subject": "verify your bank", "body": "Unusual activity detected on your account. Confirm your full card number and PIN to restore access.", "label": "spam"}
+{"subject": "inheritance notice", "body": "I am a lawyer representing the estate of a distant relative. You may be entitled to a large sum.", "label": "spam"}
+{"subject": "Alex's birthday", "body": "Reminder: Theo's birthday is on Sunday. Are we still doing the dinner at the rooftop bar?", "label": "personal"}
+{"subject": "verify your email", "body": "Click the link below to verify your email and finish setting up your account.", "label": "transactional"}
+{"subject": "flash sale: 24h", "body": "24-hour flash sale on matcha set. Stock is moving fast.", "label": "promo"}
+{"subject": "free shipping today", "body": "Free shipping on orders over $1000, today only. Use code SHIP at checkout.", "label": "promo"}
+{"subject": "interest rate change", "body": "The variable rate on your line of credit has changed. New rate effective next billing cycle.", "label": "finance"}
+{"subject": "two-factor code", "body": "Your verification code is 600127. It expires in 10 minutes. Don't share this code.", "label": "transactional"}
+{"subject": "package undelivered", "body": "Your package could not be delivered. Pay a small customs fee to release it. Click here.", "label": "spam"}
+{"subject": "newsletter: weekly digest", "body": "This week in design: five reads, two videos, one tool worth trying.", "label": "promo"}
+{"subject": "you left something behind", "body": "Still thinking about those matcha set? They're in your cart waiting for you.", "label": "promo"}
+{"subject": "photos from Seattle", "body": "Finally sorted the photos from our trip. Sharing the album link in a sec.", "label": "personal"}
+{"subject": "members-only preview", "body": "As a Pinecone Labs member, you get early access to next week's drop. Preview inside.", "label": "promo"}
+{"subject": "crypto opportunity", "body": "I am reaching out because you were referred as a serious investor. Returns of 40% guaranteed.", "label": "spam"}
+{"subject": "love from Calgary", "body": "Hello dear, I came across your profile and felt a connection. I am a nurse working overseas.", "label": "spam"}
+{"subject": "limited offer", "body": "Make $5000 a week from home. No experience needed. Reply YES for details.", "label": "spam"}
+{"subject": "recipe", "body": "Here's the dumpling recipe I promised. The trick is the cold water in the dough.", "label": "personal"}
+{"subject": "CEO request", "body": "I need you to handle a confidential transaction for me. Reply only to this email. Do not call.", "label": "spam"}
+{"subject": "design doc draft", "body": "First pass at the design doc for billing v2. Comments welcome before Monday.", "label": "work"}
+{"subject": "can you help me move?", "body": "Looking for an extra hand on Saturday. Bribing with pizza and good music.", "label": "personal"}
+{"subject": "e-transfer received", "body": "You received an Interac e-Transfer of $2500 from Alex.", "label": "finance"}
+{"subject": "subscription renewed", "body": "Your subscription to Acme Corp renewed for $500. Next renewal in 12 months.", "label": "transactional"}
+{"subject": "CEO request", "body": "I need you to handle a confidential transaction for me. Reply only to this email. Do not call.", "label": "spam"}
+{"subject": "URGENT: account suspended", "body": "Your account has been suspended due to suspicious activity. Click here to verify your identity within 24 hours.", "label": "spam"}
+{"subject": "PR open: auth rewrite", "body": "Opened a PR for the billing v2 change. Should be a small review, mostly config.", "label": "work"}
+{"subject": "interest rate change", "body": "The variable rate on your line of credit has changed. New rate effective next billing cycle.", "label": "finance"}
+{"subject": "delivered: order #153673", "body": "Your ceramic mug was delivered today. If anything is wrong, reply within 30 days.", "label": "transactional"}
+{"subject": "recipe", "body": "Here's the dumpling recipe I promised. The trick is the cold water in the dough.", "label": "personal"}
+{"subject": "survey: $10 reward", "body": "Take a quick survey and we'll send you a $10 credit. Five minutes, promise.", "label": "promo"}
+{"subject": "Rafael's birthday", "body": "Reminder: Alex's birthday is on Thursday. Are we still doing the dinner at the new ramen place?", "label": "personal"}
+{"subject": "standup notes", "body": "Quick recap from this morning's standup. Action items below; please flag if I missed anything.", "label": "work"}
+{"subject": "crypto opportunity", "body": "I am reaching out because you were referred as a serious investor. Returns of 40% guaranteed.", "label": "spam"}
+{"subject": "Re: invoice", "body": "Please find attached the overdue invoice. Payment is required immediately to avoid legal action.", "label": "spam"}
+{"subject": "payment received", "body": "We received your loan payment of $2500. Next payment is due Saturday of next month.", "label": "finance"}
+{"subject": "Re: invoice", "body": "Please find attached the overdue invoice. Payment is required immediately to avoid legal action.", "label": "spam"}
+{"subject": "password reset", "body": "Use this link to reset your password. It expires in 30 minutes.", "label": "transactional"}
+{"subject": "we miss you", "body": "It's been a while. Here's 30% off your next order to welcome you back.", "label": "promo"}
+{"subject": "standup notes", "body": "Quick recap from this morning's standup. Action items below; please flag if I missed anything.", "label": "work"}
+{"subject": "tax document ready", "body": "Your T4A from Stellaris is available in your account. Download before filing.", "label": "finance"}
+{"subject": "re: that book", "body": "Finished it last night. Thoughts: the second half drags but the ending stuck with me.", "label": "personal"}
+{"subject": "10% off this weekend", "body": "Our biggest sale of the season is here. 40% off everything in the ceramic mug collection.", "label": "promo"}
+{"subject": "recipe", "body": "Here's the dumpling recipe I promised. The trick is the cold water in the dough.", "label": "personal"}
+{"subject": "Yuki's birthday", "body": "Reminder: Priya's birthday is on Tuesday. Are we still doing the dinner at your spot?", "label": "personal"}
+{"subject": "limited offer", "body": "Make $5000 a week from home. No experience needed. Reply YES for details.", "label": "spam"}
+{"subject": "free shipping today", "body": "Free shipping on orders over $2500, today only. Use code SHIP at checkout.", "label": "promo"}
+{"subject": "Re: invoice", "body": "Please find attached the overdue invoice. Payment is required immediately to avoid legal action.", "label": "spam"}
+{"subject": "payment received", "body": "We received your loan payment of $100. Next payment is due Saturday of next month.", "label": "finance"}
+{"subject": "receipt: $100", "body": "Receipt for your purchase at Quanta. Total: $500. Thanks for shopping with us.", "label": "transactional"}
+{"subject": "standup notes", "body": "Quick recap from this morning's standup. Action items below; please flag if I missed anything.", "label": "work"}
+{"subject": "quarterly planning", "body": "Setting up planning for next quarter. Block 2 hours on your calendar this Thursday.", "label": "work"}
+{"subject": "interest rate change", "body": "The variable rate on your line of credit has changed. New rate effective next billing cycle.", "label": "finance"}
+{"subject": "verify your email", "body": "Click the link below to verify your email and finish setting up your account.", "label": "transactional"}
+{"subject": "photos from Vancouver", "body": "Finally sorted the photos from our trip. Sharing the album link in a sec.", "label": "personal"}
+{"subject": "limited offer", "body": "Make $5000 a week from home. No experience needed. Reply YES for details.", "label": "spam"}
+{"subject": "review needed: auth rewrite", "body": "Hi Sam, can you take a pass on the auth rewrite doc by EOD Thursday? Linking the latest draft.", "label": "work"}
+{"subject": "fraud alert", "body": "We blocked a suspicious charge of $500 on your card. Confirm whether this was you.", "label": "finance"}
+{"subject": "1:1 reschedule", "body": "Hey Hana, can we move our 1:1 to Friday at 2pm? Conflict on my end.", "label": "work"}
+{"subject": "incident postmortem", "body": "Posting the postmortem for last week's outage. Headlines: rollback worked, alerting did not.", "label": "work"}
+{"subject": "plans this weekend", "body": "Free Saturday afternoon? Was thinking the new exhibit at the gallery.", "label": "personal"}
+{"subject": "survey: $10 reward", "body": "Take a quick survey and we'll send you a $10 credit. Five minutes, promise.", "label": "promo"}
+{"subject": "hey, free this Sunday?", "body": "Was thinking we grab coffee at the new ramen place. Let me know what works for you.", "label": "personal"}
+{"subject": "two-factor code", "body": "Your verification code is 957306. It expires in 10 minutes. Don't share this code.", "label": "transactional"}
+{"subject": "PR open: Q3 roadmap", "body": "Opened a PR for the search relevance change. Should be a small review, mostly config.", "label": "work"}
+{"subject": "quarterly planning", "body": "Setting up planning for next quarter. Block 2 hours on your calendar this Thursday.", "label": "work"}
+{"subject": "two-factor code", "body": "Your verification code is 645801. It expires in 10 minutes. Don't share this code.", "label": "transactional"}
+{"subject": "tax document ready", "body": "Your T4A from Stellaris is available in your account. Download before filing.", "label": "finance"}
+{"subject": "mortgage renewal", "body": "Your mortgage is up for renewal in 90 days. Rates and options in the attached package.", "label": "finance"}
+{"subject": "photos from Montreal", "body": "Finally sorted the photos from our trip. Sharing the album link in a sec.", "label": "personal"}
+{"subject": "new arrivals", "body": "Fresh styles just dropped. Take a look at the new wireless earbuds line, designed for Seattle weather.", "label": "promo"}
+{"subject": "on-call handoff", "body": "Handing on-call to Hana starting Monday. Runbook updated; ping me if anything is unclear.", "label": "work"}
+{"subject": "two-factor code", "body": "Your verification code is 587888. It expires in 10 minutes. Don't share this code.", "label": "transactional"}
+{"subject": "RRSP contribution room", "body": "Your remaining RRSP contribution room for this year is $50.", "label": "finance"}
+{"subject": "RFC: billing v2", "body": "Drafted an RFC for the billing v2 approach. Looking for input before we commit.", "label": "work"}
+{"subject": "interest rate change", "body": "The variable rate on your line of credit has changed. New rate effective next billing cycle.", "label": "finance"}
+{"subject": "15% off this weekend", "body": "Our biggest sale of the season is here. 40% off everything in the wireless earbuds collection.", "label": "promo"}
+{"subject": "members-only preview", "body": "As a Acme Corp member, you get early access to next week's drop. Preview inside.", "label": "promo"}
+{"subject": "RFC: search relevance", "body": "Drafted an RFC for the platform migration approach. Looking for input before we commit.", "label": "work"}
+{"subject": "flash sale: 24h", "body": "24-hour flash sale on linen shirt. Stock is moving fast.", "label": "promo"}
+{"subject": "low balance alert", "body": "Your checking account balance is below $100. No action required, just a heads up.", "label": "finance"}
+{"subject": "quarterly planning", "body": "Setting up planning for next quarter. Block 2 hours on your calendar this Thursday.", "label": "work"}
+{"subject": "inheritance notice", "body": "I am a lawyer representing the estate of a distant relative. You may be entitled to a large sum.", "label": "spam"}
+{"subject": "Re: invoice", "body": "Please find attached the overdue invoice. Payment is required immediately to avoid legal action.", "label": "spam"}
+{"subject": "delivered: order #151116", "body": "Your ceramic mug was delivered today. If anything is wrong, reply within 30 days.", "label": "transactional"}
+{"subject": "seasonal lookbook", "body": "Our spring lookbook is live. Inspiration for your Montreal weekends.", "label": "promo"}
+{"subject": "payment received", "body": "We received your loan payment of $2500. Next payment is due Tuesday of next month.", "label": "finance"}
+{"subject": "you have won $1000", "body": "Congratulations! You have been selected as the winner of our weekly draw. Claim your prize here.", "label": "spam"}
+{"subject": "RFC: billing v2", "body": "Drafted an RFC for the Q3 roadmap approach. Looking for input before we commit.", "label": "work"}
+{"subject": "housewarming!", "body": "We're finally done unpacking. Come over Saturday around 7. Bring whatever you want to drink.", "label": "personal"}
+{"subject": "RFC: platform migration", "body": "Drafted an RFC for the search relevance approach. Looking for input before we commit.", "label": "work"}
+{"subject": "low balance alert", "body": "Your checking account balance is below $50. No action required, just a heads up.", "label": "finance"}
+{"subject": "flash sale: 24h", "body": "24-hour flash sale on running shoes. Stock is moving fast.", "label": "promo"}
+{"subject": "flight check-in open", "body": "Check-in is now open for your flight to Toronto. Window closes 1 hour before departure.", "label": "transactional"}
+{"subject": "members-only preview", "body": "As a Stellaris member, you get early access to next week's drop. Preview inside.", "label": "promo"}
+{"subject": "seasonal lookbook", "body": "Our spring lookbook is live. Inspiration for your Montreal weekends.", "label": "promo"}
+{"subject": "RFC: platform migration", "body": "Drafted an RFC for the auth rewrite approach. Looking for input before we commit.", "label": "work"}
+{"subject": "checking in", "body": "Hey, haven't heard from you in a while. Things ok?", "label": "personal"}
+{"subject": "you have won $2500", "body": "Congratulations! You have been selected as the winner of our weekly draw. Claim your prize here.", "label": "spam"}
+{"subject": "1:1 reschedule", "body": "Hey Mei, can we move our 1:1 to Friday at 2pm? Conflict on my end.", "label": "work"}
+{"subject": "subscription renewed", "body": "Your subscription to Quanta renewed for $1000. Next renewal in 12 months.", "label": "transactional"}
+{"subject": "PR open: Q3 roadmap", "body": "Opened a PR for the platform migration change. Should be a small review, mostly config.", "label": "work"}
+{"subject": "flash sale: 24h", "body": "24-hour flash sale on running shoes. Stock is moving fast.", "label": "promo"}
+{"subject": "you left something behind", "body": "Still thinking about those ergonomic chair? They're in your cart waiting for you.", "label": "promo"}
+{"subject": "order #959548 confirmed", "body": "Thanks for your order. Your linen shirt will ship within 2 business days. Tracking to follow.", "label": "transactional"}
+{"subject": "checking in", "body": "Hey, haven't heard from you in a while. Things ok?", "label": "personal"}
+{"subject": "mortgage renewal", "body": "Your mortgage is up for renewal in 90 days. Rates and options in the attached package.", "label": "finance"}
+{"subject": "password reset", "body": "Use this link to reset your password. It expires in 30 minutes.", "label": "transactional"}
